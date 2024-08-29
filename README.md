@@ -15,12 +15,19 @@ https://almeida-cma.github.io/receber/
 
 CREDENCIAIS FIREBASE:
  const configuracaoFirebase = {
+ 
             apiKey: "",
+ 
             authDomain: "",
+            
             projectId: "",
+            
             storageBucket: "",
+            
             messagingSenderId: "",
+            
             appId: ""
+            
         };
 
 https://almeida-cma.github.io/receber/

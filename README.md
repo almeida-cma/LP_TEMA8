@@ -14,6 +14,7 @@ https://almeida-cma.github.io/receber/
 3) DESAFIO: publicar a aplicação com Firebase "index.html" com suas credenciais (exemplo abaixo) e informar no formulárioa abaixo:
 
 CREDENCIAIS FIREBASE:
+
  const configuracaoFirebase = {
  
             apiKey: "",
